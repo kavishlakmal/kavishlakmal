@@ -45,25 +45,14 @@ class DataScientist:
 DataScientist().say_hi()
 ```
 
-- 🎓 **BSc (Hons) IT — Data Science** at Sri Lanka Institute of Information Technology · CGPA **3.76**
-- 🔬 I build **end-to-end data projects** — from cleaning & EDA to modeling & dashboards
+- 🎓 **BSc (Hons) IT - Data Science** at Sri Lanka Institute of Information Technology · CGPA **3.76**
+- 🔬 I build **end-to-end data projects** - from cleaning & EDA to modeling & dashboards
 - 📊 Recently predicted **GTA VI's commercial success** with an ML model trained on 64K+ games
 - 🌱 Always learning: currently deepening my skills in **ML engineering & cloud**
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | What I Did | Tech |
-|---------|-----------|------|
-| 🎮 **[Video Game Hit Prediction](https://github.com/kavishlakmal)** | Trained & compared 3 ML classifiers on a **64,016-row** dataset → **78.3% accuracy, 0.852 ROC-AUC**. Applied the model to GTA VI's confirmed attributes → **94–97% predicted hit probability** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas) |
-| 🏬 **[Data Warehouse & BI](https://github.com/kavishlakmal)** | Designed a **6-dimension star schema** DW with SCD Type 2, built SSIS ETL from 3 heterogeneous sources, deployed an SSAS OLAP cube + interactive Power BI reports | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) |
-| 📈 **[Student Performance Analysis](https://github.com/kavishlakmal)** | Statistical deep-dive on 6,607 students: ANOVA, T-tests, Pearson correlation + Multiple Linear Regression → **R² ≈ 77%** | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |
-| 🏫 **[Smart Campus Operations Hub](https://github.com/kavishlakmal)** | Built the full Maintenance & Incident Ticketing module — REST APIs, role-based access, React dashboards | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| 🥥 **[CocoSmart Plantation System](https://github.com/kavishlakmal)** | Labor management & task assignment modules with real-time availability tracking + HR analytics dashboard | ![MongoDB](https://img.shields.io/badge/-MERN-47A248?logo=mongodb&logoColor=white) |
-| 📱 **[HabitX Android App](https://github.com/kavishlakmal)** | Habit tracker with mood journaling, chart visualisations & smart reminders via WorkManager | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) |
-
-> 🔗 More projects: Online Banking System (Java/JSP) · Online Job Portal (PHP/MySQL — led a 5-member team)
 
 ---
 
